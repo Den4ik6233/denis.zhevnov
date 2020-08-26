@@ -358,7 +358,10 @@ section {
   margin-bottom: 50px; }
 
 .portfolio_item {
-  display: none; }
+  display: none;
+  margin-bottom: 15px;
+    max-height: 350px;
+    overflow: hidden; }
   .portfolio_item img {
     width: 100%; }
   .portfolio_item .port_item_cont {
